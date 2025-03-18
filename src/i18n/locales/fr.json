@@ -1,0 +1,319 @@
+{
+  "header": {
+    "phone": "(+213) 07.83.32.87.29",
+    "email": "harounsolution@gmail.com",
+    "hours": "Dim-Jeu: 8h-17h",
+    "slogan": "Connecter l'éducation, assurer l'innovation",
+    "menu": {
+      "home": "Accueil",
+      "about": "Qui sommes-nous",
+      "services": "Nos services",
+      "projects": "Nos réalisations",
+      "pricing": "Prix",
+      "team": "Notre équipe",
+      "contact": "Contact",
+      "remoteSupport": "Assistance à distance"
+    }
+  },
+  "footer": {
+    "about": "Services de maintenance informatique et d'installation de réseaux internet pour les établissements scolaires de la wilaya de Mostaganem et environs.",
+    "quickLinks": "Liens rapides",
+    "ourServices": "Nos services",
+    "services": {
+      "maintenance": "Maintenance informatique",
+      "network": "Installation de réseaux",
+      "remote": "Télémaintenance",
+      "repair": "Dépannage informatique"
+    },
+    "contact": "Contact",
+    "address": "Mostaganem, Algérie",
+    "contactWhatsapp": "Contacter par WhatsApp",
+    "copyright": "© 2025 NetScolaire-DZ. Tous droits réservés - Ce site est réalisé par Mr Rouabeh Karim."
+  },
+  "home": {
+    "hero": {
+      "title": "Solutions informatiques pour établissements scolaires",
+      "subtitle": "Maintenance informatique et installation de réseaux internet pour les établissements scolaires de Mostaganem et environs.",
+      "contactButton": "Nous contacter",
+      "servicesButton": "Nos services"
+    },
+    "infoBar": {
+      "visits": "12 visites par an",
+      "included": "Incluses dans le contrat",
+      "speed": "Rapidité d'intervention",
+      "reactive": "Service réactif et efficace",
+      "tracking": "Suivi des visites",
+      "remaining": "Nombre de visites restantes"
+    },
+    "services": {
+      "title": "Nos Services",
+      "subtitle": "Nous proposons des solutions complètes pour répondre aux besoins informatiques des établissements scolaires.",
+      "maintenance": {
+        "title": "Maintenance informatique",
+        "description": "Contrat annuel incluant 12 visites, avec rapport détaillé après chaque intervention.",
+        "features": [
+          "Maintenance préventive et curative",
+          "Dépannage sur site",
+          "Rapport détaillé après intervention"
+        ]
+      },
+      "network": {
+        "title": "Installation de réseaux",
+        "description": "Installation et configuration de réseaux internet adaptés aux besoins des établissements scolaires.",
+        "features": [
+          "Étude et devis personnalisés",
+          "Installation de câblage et équipements",
+          "Configuration et sécurisation"
+        ]
+      },
+      "remote": {
+        "title": "Télémaintenance",
+        "description": "Support à distance via TeamViewer et RustDesk pour résoudre rapidement les problèmes techniques.",
+        "features": [
+          "Intervention rapide à distance",
+          "Résolution des problèmes logiciels",
+          "Assistance utilisateur"
+        ]
+      },
+      "moreLink": "En savoir plus"
+    },
+    "remoteSupport": {
+      "title": "Assistance à distance",
+      "subtitle": "Bénéficiez de notre support technique à distance grâce à nos outils de télémaintenance.",
+      "teamviewer": {
+        "description": "Logiciel de télémaintenance sécurisé permettant à nos techniciens d'accéder à votre ordinateur à distance pour résoudre vos problèmes.",
+        "downloadButton": "Télécharger TeamViewer"
+      },
+      "rustdesk": {
+        "description": "Alternative open-source pour l'assistance à distance, offrant une connexion sécurisée pour le support technique.",
+        "downloadButton": "Télécharger RustDesk"
+      },
+      "moreLink": "En savoir plus sur l'assistance à distance"
+    },
+    "cta": {
+      "title": "Prêt à améliorer l'infrastructure informatique de votre établissement ?",
+      "subtitle": "Contactez-nous dès aujourd'hui pour discuter de vos besoins et découvrir comment nous pouvons vous aider.",
+      "quoteButton": "Demander un devis",
+      "whatsappButton": "Contacter par WhatsApp"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Contactez-nous",
+      "subtitle": "Nous sommes là pour vous aider. Contactez-nous pour discuter de vos besoins informatiques."
+    },
+    "info": {
+      "title": "Informations de contact",
+      "description": "N'hésitez pas à nous contacter par le moyen qui vous convient le mieux. Notre équipe est prête à répondre à toutes vos questions.",
+      "phone": "Téléphone",
+      "email": "Email",
+      "address": "Adresse",
+      "hours": "Horaires d'ouverture",
+      "workingDays":  "Dimanche à Jeudi : 8h00 - 17h00",
+      "weekendDays": "Vendredi et Samedi : Fermé",
+      "followUs": "Suivez-nous"
+    },
+    "form": {
+      "title": "Envoyez-nous un message",
+      "fullName": "Nom complet",
+      "schoolEmail": "Email de l'établissement",
+      "schoolEmailPlaceholder": "Ex: lycee.exemple@gmail.com",
+      "schoolEmailNote": "Veuillez utiliser l'email officiel de votre établissement scolaire",
+      "phone": "Numéro de téléphone",
+      "establishment": "Nom de l'établissement",
+      "serviceType": "Type de service",
+      "serviceTypes": {
+        "maintenance": "Contrat de maintenance",
+        "network": "Installation réseau",
+        "remote": "Assistance à distance",
+        "repair": "Dépannage"
+      },
+      "desktopCount": "Nombre d'ordinateurs de bureau",
+      "laptopCount": "Nombre d'ordinateurs portables",
+      "message": "Message",
+      "messagePlaceholder": "Décrivez vos besoins en détail...",
+      "submit": "Envoyer le message",
+      "sending": "Envoi en cours...",
+      "success": "Votre message a été envoyé avec succès ! Nous vous contacterons bientôt.",
+      "error": "Désolé, une erreur s'est produite lors de l'envoi de votre message. Veuillez réessayer."
+    },
+    "map": {
+      "title": "Notre localisation",
+      "description": "Nous sommes situés à Mostaganem et nous servons tous les établissements scolaires de la wilaya et des environs."
+    },
+    "cta": {
+      "title": "Besoin d'assistance technique ?",
+      "description": "Notre équipe est prête à vous aider à tout moment",
+      "whatsapp": "Contacter par WhatsApp",
+      "phone": "Ou appelez-nous directement au :"
+    }
+  },
+  "pricing": {
+    "hero": {
+      "title": "Nos tarifs",
+      "subtitle": "Des solutions transparentes et adaptées aux besoins des établissements scolaires"
+    },
+    "maintenanceContract": {
+      "title": "Contrat de maintenance informatique",
+      "price": "35700 DZ",
+      "period": "/an",
+      "features": {
+        "visits": "12 visites annuelles incluses",
+        "report": "Rapport détaillé après chaque intervention",
+        "remote": "Télémaintenance via TeamViewer et RustDesk",
+        "preventive": "Maintenance préventive",
+        "support": "Support téléphonique prioritaire"
+      },
+      "cta": "Souscrire au contrat"
+    },
+    "networkInstallation": {
+      "title": "Installation de réseaux internet",
+      "price": "Sur devis",
+      "description": "Le prix varie selon la taille de l'établissement, le nombre de points d'accès requis et les équipements nécessaires",
+      "features": {
+        "study": "Étude préalable gratuite",
+        "quote": "Devis détaillé et transparent",
+        "installation": "Installation professionnelle",
+        "config": "Configuration et test"
+      },
+      "cta": "Demander un devis"
+    },
+    "notice": {
+      "title": "Information importante",
+      "content": "Tous les services, qu'il s'agisse d'un contrat de maintenance ou d'une installation réseau, ne seront effectués qu'après émission d'un bon de commande officiel de l'établissement scolaire. Ce document est nécessaire pour démarrer nos services."
+    },
+    "comparison": {
+      "title": "Comparaison des services",
+      "subtitle": "Découvrez en détail ce qui est inclus dans nos différentes offres",
+      "features": {
+        "preventiveMaintenance": "Maintenance préventive",
+        "curativeMaintenance": "Maintenance curative",
+        "interventionReport": "Rapport d'intervention",
+        "remoteMaintenance": "Télémaintenance",
+        "phoneSupport": "Support téléphonique",
+        "interventionDelay": "Délai d'intervention",
+        "purchaseOrder": "Bon de commande requis",
+        "price": "Prix"
+      },
+      "values": {
+        "included": "Inclus",
+        "notIncluded": "Non inclus",
+        "delay24h": "24-48h",
+        "planned": "Planifié",
+        "onQuote": "Sur devis"
+      }
+    },
+    "faq": {
+      "title": "Questions fréquentes",
+      "subtitle": "Trouvez les réponses aux questions les plus courantes sur nos services et nos tarifs",
+      "questions": {
+        "contract": {
+          "question": "Que comprend exactement le contrat de maintenance ?",
+          "answer": "Le contrat de maintenance comprend 12 visites annuelles (une visite mensuelle), la maintenance préventive et curative du parc informatique, l'assistance à distance via TeamViewer ou RustDesk, et un rapport détaillé après chaque intervention. Il inclut également un support téléphonique prioritaire."
+        },
+        "networkPrice": {
+          "question": "Comment est calculé le prix d'une installation réseau ?",
+          "answer": "Le prix d'une installation réseau dépend de plusieurs facteurs : la taille de l'établissement, le nombre de points d'accès requis, les équipements nécessaires (routeurs, switches, etc.), et la complexité de l'installation. Nous effectuons une étude préalable gratuite pour fournir un devis détaillé et transparent."
+        },
+        "contractCustomization": {
+          "question": "Le contrat de maintenance peut-il être personnalisé ?",
+          "answer": "Oui, nous pouvons adapter le contrat de maintenance en fonction des besoins spécifiques de votre établissement. N'hésitez pas à nous contacter pour discuter de vos exigences particulières et obtenir une proposition personnalisée."
+        },
+        "extraVisits": {
+          "question": "Que se passe-t-il si nous avons besoin de plus de 12 visites par an ?",
+          "answer": "Si vous avez besoin de visites supplémentaires au-delà des 12 visites incluses dans le contrat, nous pouvons les fournir à un tarif préférentiel pour les clients sous contrat. Nous pouvons également discuter d'une mise à niveau de votre contrat si vos besoins ont évolué."
+        },
+        "preventiveMethods": {
+          "question": "Quelles sont les méthodes de maintenance préventive utilisées ?",
+          "answer": "Notre approche de maintenance préventive inclut le gel du système, une technique qui permet de maintenir les ordinateurs dans leur état optimal et de les restaurer rapidement en cas de problème. Cette méthode est particulièrement efficace dans les environnements scolaires où les machines sont utilisées par de nombreux utilisateurs différents. Nous effectuons également des nettoyages réguliers, des mises à jour système et des vérifications de sécurité pour prévenir les problèmes avant qu'ils ne surviennent."
+        },
+        "securityBenefits": {
+          "question": "Quels sont les avantages en matière de sécurité informatique ?",
+          "answer": "Les établissements scolaires sous contrat annuel bénéficient de l'installation d'un antivirus professionnel avec une licence illimitée. Cette solution de sécurité complète protège vos systèmes contre les virus, malwares, ransomwares et autres menaces. Contrairement aux solutions grand public qui nécessitent un renouvellement régulier, notre solution antivirus reste active et à jour sans frais supplémentaires pendant toute la durée de votre contrat."
+        }
+      }
+    },
+    "cta": {
+      "title": "Prêt à améliorer l'infrastructure informatique de votre établissement ?",
+      "subtitle": "Contactez-nous dès aujourd'hui pour discuter de vos besoins et obtenir un devis personnalisé",
+      "contact": "Nous contacter",
+      "whatsapp": "Contacter par WhatsApp"
+    }
+  },
+  "team": {
+    "hero": {
+      "title": "Notre équipe",
+      "subtitle": "Découvrez les professionnels passionnés qui œuvrent chaque jour pour assurer le bon fonctionnement de votre infrastructure informatique."
+    },
+    "intro": {
+      "title": "Une équipe d'experts à votre service",
+      "subtitle": "Chez NetScolaire-DZ, nous sommes fiers de notre équipe de professionnels qualifiés et passionnés. Chaque membre de notre équipe apporte son expertise et son engagement pour fournir un service de haute qualité."
+    },
+    "values": {
+      "title": "Nos valeurs",
+      "subtitle": "Ces principes guident notre équipe au quotidien et définissent notre approche du service client.",
+      "expertise": {
+        "title": "Expertise",
+        "description": "Notre équipe se forme continuellement pour rester à la pointe de la technologie et vous apporter les meilleures solutions."
+      },
+      "reactivity": {
+        "title": "Réactivité",
+        "description": "Nous comprenons l'importance d'un système informatique fonctionnel dans un environnement éducatif et nous nous engageons à intervenir rapidement."
+      },
+      "commitment": {
+        "title": "Engagement",
+        "description": "Nous nous investissons pleinement dans chaque projet et nous nous efforçons de dépasser les attentes de nos clients pour garantir leur entière satisfaction."
+      }
+    },
+    "maintenance": {
+      "title": "Contrat de maintenance pour l'année scolaire",
+      "subtitle": "Établissements scolaires, assurez la fiabilité de votre infrastructure informatique tout au long de l'année scolaire ! Notre contrat de maintenance annuel renouvelable vous apporte la tranquillité d'esprit à un tarif unique et privilégié.",
+      "features": {
+        "visits": "12 visites annuelles incluses (une visite mensuelle)",
+        "report": "Rapport détaillé après chaque intervention",
+        "price": "Tarif fixe et privilégié : 35700 DZ/An"
+      },
+      "cta": "Demandez votre contrat maintenant",
+      "price": {
+        "amount": "35700",
+        "period": "DZ/An",
+        "note": "Dépêchez-vous ! Nombre limité de contrats disponibles pour cette année scolaire."
+      }
+    },
+    "testimonials": {
+      "title": "Ce que nos clients disent de notre équipe",
+      "subtitle": "Découvrez comment HarounSolution a transformé l'infrastructure informatique de ces établissements entre 2011 et 2018 et comment ils accueillent avec enthousiasme son retour sous la forme de NetScolaire-DZ, une startup dédiée au secteur éducatif.",
+      "evolution": {
+        "title": "De HarounSolution à NetScolaire-DZ",
+        "description": "Après avoir fait ses preuves sous le nom de HarounSolution entre 2011 et 2018, notre équipe revient avec une vision renouvelée et une expertise encore plus ciblée sur le secteur éducatif. NetScolaire-DZ représente l'évolution naturelle de notre engagement envers les établissements scolaires de la région.",
+        "conclusion": "Nous sommes ravis de voir l'enthousiasme de nos clients historiques à poursuivre l'aventure avec notre startup, et nous nous engageons à continuer d'innover pour mieux répondre à leurs besoins spécifiques."
+      }
+    },
+    "team_members": {
+      "founder": {
+        "name": "Haroun Karim",
+        "role": "Fondateur & Directeur",
+        "bio": "Ingénieur en informatique avec plus de 10 ans d'expérience dans le domaine de la maintenance informatique et l'installation de réseaux. Passionné par les nouvelles technologies et l'éducation."
+      },
+      "tech_lead": {
+        "name": "Mohamed Kadri",
+        "role": "Responsable technique",
+        "bio": "Technicien supérieur en réseaux informatiques avec une expertise particulière dans la configuration et la sécurisation des réseaux pour les établissements scolaires."
+      },
+      "technician": {
+        "name": "Ahmed Benali",
+        "role": "Technicien informatique",
+        "bio": "Spécialiste en maintenance informatique avec 5 ans d'expérience dans le dépannage et la réparation de matériel informatique. Expert en diagnostic et résolution de problèmes techniques."
+      },
+      "admin": {
+        "name": "Fatima Zahra",
+        "role": "Responsable administrative",
+        "bio": "En charge de la gestion administrative et de la relation client. Assure le suivi des contrats et la planification des interventions pour garantir un service de qualité."
+      }
+    }
+  },
+  "languageSelector": {
+    "fr": "Français",
+    "ar": "العربية"
+  }
+}

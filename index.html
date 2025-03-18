@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>NetScolaire-DZ - Solutions informatiques pour établissements scolaires</title>
+    <meta name="description" content="Maintenance informatique et installation de réseaux internet pour les établissements scolaires de Mostaganem et environs." />
+    <link rel="alternate" hreflang="fr" href="https://netscolaire-dz.com" />
+    <link rel="alternate" hreflang="ar" href="https://netscolaire-dz.com?lang=ar" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <div id="root" class="font-loading"></div>
+    <script type="module" src="/src/main.tsx"></script>
+    <script>
+      // Font loading detection
+      document.fonts.ready.then(() => {
+        document.getElementById('root').classList.remove('font-loading');
+        document.getElementById('root').classList.add('font-loaded');
+      });
+    </script>
+  </body>
+</html>
